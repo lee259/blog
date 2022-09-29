@@ -2,3 +2,4 @@ node_modules/
 package-lock
 yarn.error
 .temp
+node_modules
